@@ -80,7 +80,7 @@ Analysis of cytogenetic damage in normal human embryonic kidney cell line (HEK) 
 
 \newpage
 
-# Appendix
+<p style="text-align: center;">Appendix</p>
 
 #  Employment Details 
 
@@ -108,6 +108,7 @@ Analysis of cytogenetic damage in normal human embryonic kidney cell line (HEK) 
 accordance with global guidelines (CONSORT, STROBE, etc).
 - Trained writers and managers around writing in the sciences
 - Managed the entire lifecycle of the publication
+
 
 # Examples - Scientific Writing
 
