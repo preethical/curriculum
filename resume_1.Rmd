@@ -107,7 +107,7 @@ Analysis of cytogenetic damage in normal human embryonic kidney cell line (HEK) 
 - Developed, implemented and monitored “Good Authoring Practices” within GSK Biologicals in
 accordance with global guidelines (CONSORT, STROBE, etc).
 - Trained writers and managers around writing in the sciences
-- 
+- Managed the entire lifecycle of the publication
 
 # Examples - Scientific Writing
 
@@ -133,8 +133,6 @@ AlObaid A, Al-Badawi, IA, Al-Kadri H. et al. "*Human papillomavirus prevalence a
 <!--Khalil M, Azhar E, Kao M et al."*Gastroenteritis attributable to rotavirus in hospitalized Saudi Arabian children in the period 2007-2008.*" (2015) Clin Epidemiol. 7:129-37.-->
 
 Moses A, Bjerrum J, Hach M, et al. "*Concentrations of Intact Insulin Concurs With FDA and EMA Standards When Measured by HPLC in Different Parts of the Distribution Cold Chain.*" (2019). J Diabetes Sci Technol. 13(1):55-59.
-
-
 
 
 # References
