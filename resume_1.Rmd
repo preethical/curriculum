@@ -103,32 +103,35 @@ Institute of Nuclear Medicine and Allied Sciences.
 
 ## CivicDataLab 
 
-- Led a team working working with public procurement data
-- Analysed and visualized public spending data & public health to create the public health procurement explorer
-- First Prize - Taiwanese Presidential Hackathon for innovative uses of open data
-- Successfully advocated for public procurement policy changes within Assam (and the use of the procurement explorer)
-- Wrote four grants to continue public procurement efforts in the company and won three of them
-- Wrote policy responses to the new Indian Judiciary digitization guidelines which are being reviewed by the committee that wrote the paper. 
-- Published the state of FOSS report and successfully conducted panels with the National Informatics Centre (IT arm of Government of India) to advocate for FOSS use in governance
-- Ran social media campaigns around public finance and the Indian budget
+- Led public procurement data team
+- Built the Health Procurement Performance Index
+- First Prize, Taiwanese Presidential Hackathon
+- Successfully advocated for policy changes in state of Assam
+- Wrote and won three grants
+<!-- - Wrote policy responses to the new Indian Judiciary Digitization Guidelines -->
+- Published _"State of FOSS in India"_ report 
+- Conducted panels for the National Informatics Centre
+- Ran social media campaigns
 
 ## Novo Nordisk, Medical Affairs
 
-- Built the first medical communications team in the company and processes for the team
-- Planned and executed Global Scientific Advisory Boards, Symposia, Seminars, and Investigator Sponsored Studies meetings including content management
-- Successfully engaged Key Opinion Leaders across the world for IDEgLira and IDegAsp
+- Built the first Medical Communications Team
+- Designed process for Medical Communications Team
+- Planned and executed Global Scientific Advisory Boards, symposia, and seminars
+- Managed content for presentations and workshops
+- Engaged global Key Opinion Leaders for IDEgLira and IDegAsp
 
 ## GlaxoSmithKline, Vaccines
 
-- Published over 15 manuscripts, abstracts, presentations, and posters in accordance with journal and ICMJE guidelines
-- Developed, implemented and monitored “Good Authoring Practices” within GSK Biologicals in
-accordance with global guidelines (CONSORT, STROBE, etc).
-- Trained writers and managers around writing in the sciences
+- Published over 15 manuscripts, abstracts, presentations, and posters
+<!-- in accordance with journal and ICMJE guidelines -->
+- Developed and implemented official good authoring practices
+- Monitored peers' adherence to global guidelines (ICMJE, CONSORT, STROBE)
+- Trained writers and managers in publication writing
 - Managed the entire lifecycle of the publication
 
 
-# Examples - Scientific Writing
-
+# Scientific Writing
 
 Martinez AC, Cueva IS, Boutet P, et al.  _"A phase 1, open-label safety and immunogenicity study of an AS03-adjuvanted trivalent inactivated influenza vaccine in children aged 6 to 35 months."_ (2014). Human Vaccines & Immunotherapeutics, 10:7, 1959-1968, DOI: 10.4161/hv.28743 
 
@@ -155,4 +158,6 @@ Moses A, Bjerrum J, Hach M, et al. _"Concentrations of Intact Insulin Concurs Wi
 
 # References
 
-Available upon request. Please send corrections, feedback to preethi@deobald.ca
+Available upon request.
+
+Please send corrections and feedback to preethi@deobald.ca
