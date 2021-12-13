@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.4)  8 DEC 2021 07:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.12.8)  12 DEC 2021 20:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **resume_1.tex
 (./resume_1.tex
-LaTeX2e <2021-11-15>
+LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2021-11-22> (/Users/preethi/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/preethi/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -696,21 +696,21 @@ File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 AED: lastpage setting LastPage
 [3] (./resume_1.aux)
 Package rerunfilecheck Info: File `resume_1.out' has not changed.
-(rerunfilecheck)             Checksum: D2F867611EC7F92FD76B7F06DEED76C8;1409.
+(rerunfilecheck)             Checksum: FFAAA899E97805DAB9D5B1657A3E46C1;1467.
  ) 
 Here is how much of TeX's memory you used:
- 24370 strings out of 480313
- 449605 string characters out of 5896451
- 726289 words of memory out of 5000000
- 41760 multiletter control sequences out of 15000+600000
+ 24366 strings out of 480313
+ 449613 string characters out of 5896451
+ 726278 words of memory out of 5000000
+ 41758 multiletter control sequences out of 15000+600000
  437480 words of font info for 78 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  115i,11n,118p,1197b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/preethi/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{/Users/preethi/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc} </Users/preethi/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{/Users/preethi/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/preethi/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/preethi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/preethi/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/preethi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/preethi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/preethi/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on resume_1.pdf (3 pages, 115896 bytes).
+Output written on resume_1.pdf (3 pages, 116261 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 28 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 150 PDF objects out of 1000 (max. 8388607)
+ 116 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

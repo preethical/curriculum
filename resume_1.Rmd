@@ -1,5 +1,5 @@
 ---
-output: stevetemplates::cv
+output: stevetemplates::cv # 0.7.0
 geometry: margin=1in
 
 title: "CV"
@@ -26,63 +26,80 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+
 # Employment
 
+_Freelance Researcher_ \hfill July 2021 - Present
 
-*Freelance Researcher* \hfill July 2021 - ~
+_CivicDataLab_, Project Lead & Public Health Researcher \hfill Dec 2019 - July 2021
 
-*CivicDataLab Pvt Ltd*, Project Lead & Public Health Researcher \hfill Dec 2019 - July 2021
+_Novo Nordisk_, Global Project Manager \hfill March 2017 - July 2018
 
-*Novo Nordisk - Medical Affairs*, Global Project Manager \hfill March 2017 - July 2018
+_GlaxoSmithKline_, Senior Associate Publication Writer \hfill June 2013 - February 2017
 
-*GlaxoSmithKline - Vaccines*, Senior Associate Publication Writer \hfill June 2013 - February 2017
 
 # Education
 
+_Johns Hopkins University_, Specialization in Data Science \hfill May 2019 - January 2020
 
-*Johns Hopkins Institute of Public Health*, Specialization in Data Science \hfill May 2019 – January 2020
+_Indian Institute of Science_, Research Fellow \hfill January 2012 - March 2013
 
-*Indian Institute of Science*, Research Fellow \hfill January 2012 - March 2013
+_University College Dublin_, Research Associate \hfill August 2008 - January 2012
 
-*University College Dublin*, Research Associate \hfill August 2008 - January 2012
+_Sri Ramachandra Medical University_, M.Sc \hfill March 2006 - July 2008
 
-*Sri Ramachandra Medical University*, M.Sc \hfill March 2006 - July 2008
+_Stella Maris College - Madras University_, B.Sc \hfill March 2003 - March 2006
 
-*Stella Maris College - Madras University*, B.Sc \hfill March 2003 - March 2006
 
 # Skills
 
+_Languages_: R, Python (Beautiful Soup)  
+_Tools_: R Studio, Apache Superset, Jupyter, DataVision, SAS, SPSS, Excel, Git, GitHub
 
-*Languages*: R, Python (Beautiful Soup)  
-*Tools*: R Studio, Apache Superset, Jupyter, DataVision, SAS, SPSS, Excel, Git, GitHub
 
 # Journal Articles
 
+Hill, E., Gu, J., Eivers, S., Govindarajan, P. et al. (2010).
+_"A sequence polymorphism in MSTN predicts sprinting ability and racing stamina in thoroughbred horses."_ 
+PloS One 5, no. 1: e8645
 
-Hill. Emmeline W., Jingjing Gu, Suzanne S. Eivers, Fonseca Rita et al. "*A sequence polymorphism in MSTN
-predicts sprinting ability and racing stamina in thoroughbred horses. *" (2010). PloS One 5, no. 1: e8645
+Orr, N., Hill, E., Gu, J., Govindarajan, P. et al. (2012).
+_"Genome-wide association study of osteochondrosis in the tarsocrural joint of Dutch Warmblood horses identifies susceptibility loci on chromosomes 3 and 10."_ 
+Animal Genetics. 44. 10.1111/age.12016.
 
-Orr, N & Hill, E & Gu, J, Govindarajan P et al. "*Genome-wide association study of osteochondrosis in the tarsocrural joint of Dutch Warmblood horses identifies susceptibility loci on chromosomes 3 and 10.*" (2012). Animal genetics. 44. 10.1111/age.12016.
+Orr, N., Willem, B., Gu, J., Govindarajan, P. et al. (2010). 
+_"Genome-wide SNP association-based localization of a dwarfism gene in Friesian dwarf horses."_ 
+Animal Genetics. 41 Suppl 2. 2-7. 10.1111/j.1365-2052.02091.x.
 
-Orr N, Back Willem, Gu J, Leegwater et al. "*Genome-wide SNP association-based localization of a dwarfism gene in Friesian dwarf horses.*" (2010). Animal genetics. 41 Suppl 2. 2-7.  10.1111/j.1365-2052.02091.x.
 
 # Other Publications
 
+Arora, A., Godhwani, G., Govindarajan, P., & Rani, D. (2021).
+_"The State of Free and Open Source Software in India."_
+Omidyaar Network.
+https://state-of-foss.in/the-state-of-foss-report.pdf
 
-The State of Free and Open Source Software in India. A Report published by Omidyaar Network. https://state-of-foss.in/
+Govindarajan, P. (2019).
+_"Vipassana for Hackers: The Brain."_
+Vipassana for Hackers.
+https://www.vipassana-for-hackers.org/
 
-Vipassana for Hackers - The Brain. Self published. https://www.vipassana-for-hackers.org/
+Govindarajan, P. (2008).
+_"Isolation and In-vivo Expansion of Human Amniotic Derived Multipotent Cells."_
+Sri Ramachandra Medical University.
+M.Sc. Dissertation
 
-Isolation and In-vivo expansion of human amniotic derived multipotent cells - M.Sc Dissertation
-
-Analysis of cytogenetic damage in normal human embryonic kidney cell line (HEK) treated with Hoechst 33342 and gamma radiation - Institute of Nuclear Medicine and Allied Sciences
+Govindarajan, P. (2007).
+_"Analysis of cytogenetic damage in normal human embryonic kidney cell line (HEK) treated with Hoechst 33342 and gamma radiation."_
+Institute of Nuclear Medicine and Allied Sciences.
 
 
 \newpage
 
+
 <p style="text-align: center;">Appendix</p>
 
-#  Employment Details 
+# Employment Details 
 
 ## CivicDataLab 
 
@@ -95,13 +112,13 @@ Analysis of cytogenetic damage in normal human embryonic kidney cell line (HEK) 
 - Published the state of FOSS report and successfully conducted panels with the National Informatics Centre (IT arm of Government of India) to advocate for FOSS use in governance
 - Ran social media campaigns around public finance and the Indian budget
 
-## Novo Nordisk
+## Novo Nordisk, Medical Affairs
 
 - Built the first medical communications team in the company and processes for the team
 - Planned and executed Global Scientific Advisory Boards, Symposia, Seminars, and Investigator Sponsored Studies meetings including content management
 - Successfully engaged Key Opinion Leaders across the world for IDEgLira and IDegAsp
 
-## GlaxoSmithKline
+## GlaxoSmithKline, Vaccines
 
 - Published over 15 manuscripts, abstracts, presentations, and posters in accordance with journal and ICMJE guidelines
 - Developed, implemented and monitored “Good Authoring Practices” within GSK Biologicals in
@@ -113,27 +130,27 @@ accordance with global guidelines (CONSORT, STROBE, etc).
 # Examples - Scientific Writing
 
 
-Martinez AC, Cueva IS, Boutet P, et al.  "*A phase 1, open-label safety and immunogenicity study of an AS03-adjuvanted trivalent inactivated influenza vaccine in children aged 6 to 35 months.*" (2014). Human Vaccines & Immunotherapeutics, 10:7, 1959-1968, DOI: 10.4161/hv.28743 
+Martinez AC, Cueva IS, Boutet P, et al.  _"A phase 1, open-label safety and immunogenicity study of an AS03-adjuvanted trivalent inactivated influenza vaccine in children aged 6 to 35 months."_ (2014). Human Vaccines & Immunotherapeutics, 10:7, 1959-1968, DOI: 10.4161/hv.28743 
 
-Wutzler P, Bonanni P, Burgess M, et al. "*Varicella vaccination - the global experience.*" (2017). Expert Review of Vaccines. 16:8, 833-843, DOI: 10.1080/14760584.2017.1343669 
+Wutzler P, Bonanni P, Burgess M, et al. _"Varicella vaccination - the global experience."_ (2017). Expert Review of Vaccines. 16:8, 833-843, DOI: 10.1080/14760584.2017.1343669 
 
-<!--Ciarametaro M, Bradshaw S.E., Guiglotto J, et al. "*Hidden efficiencies: making completion of the pediatric ##vaccine schedule more efficient for physicians*".(2015). Medicine, 94(4), e357.--> 
+<!--Ciarametaro M, Bradshaw S.E., Guiglotto J, et al. _"Hidden efficiencies: making completion of the pediatric ##vaccine schedule more efficient for physicians."_ (2015). Medicine, 94(4), e357.--> 
 
-Willame C, Henry O, Lan Lin, et al. "*Pain caused by measles, mumps, and rubella vaccines: A systematic literature review*", (2017), Vaccine, Volume 35, Issue 42, Pages 5551-5558, ISSN 0264-410X
+Willame C, Henry O, Lan Lin, et al. _"Pain caused by measles, mumps, and rubella vaccines: A systematic literature review"_, (2017), Vaccine, Volume 35, Issue 42, Pages 5551-5558, ISSN 0264-410X
 
-<!--Raes M., Strens D, Kleintjens J. et al."*Epidemiological trends for hospital admissions for acute rotavirus gastroenteritis in Belgium following the introduction of routine rotavirus vaccination and the subsequent switch from lyophilized to liquid formulation of Rotarix™.*" (2016). Epidemiology and Infection, 144(14), 3017-3024.-->
+<!--Raes M., Strens D, Kleintjens J. et al._"Epidemiological trends for hospital admissions for acute rotavirus gastroenteritis in Belgium following the introduction of routine rotavirus vaccination and the subsequent switch from lyophilized to liquid formulation of Rotarix™."_ (2016). Epidemiology and Infection, 144(14), 3017-3024.-->
 
-Prymula R, Simko R, Povey M, et al."*Varicella vaccine without human serum albumin versus licensed varicella vaccine in children during the second year of life: a randomized, double-blind, non-inferiority trial*". (2016) BMC Pediatr 16, 7.
+Prymula R, Simko R, Povey M, et al._"Varicella vaccine without human serum albumin versus licensed varicella vaccine in children during the second year of life: a randomized, double-blind, non-inferiority trial"_. (2016) BMC Pediatr 16, 7.
 
-Tafalla M, Gardovska D, Gopala K, et al. "*Primary care-based surveillance to estimate the proportion of rotavirus gastroenteritis among Latvian children below 5 years of age with acute gastroenteritis.*" (2019). Human Vaccines & Immunotherapeutics, 15:6, 1272-1278, DOI: 10.1080/21645515.2018.1534515
+Tafalla M, Gardovska D, Gopala K, et al. _"Primary care-based surveillance to estimate the proportion of rotavirus gastroenteritis among Latvian children below 5 years of age with acute gastroenteritis."_ (2019). Human Vaccines & Immunotherapeutics, 15:6, 1272-1278, DOI: 10.1080/21645515.2018.1534515
 
-AlObaid A, Al-Badawi, IA, Al-Kadri H. et al. "*Human papillomavirus prevalence and type distribution among women attending routine gynecological examinations in Saudi Arabia.*" (2014). BMC Infect Dis 14, 643. 
+AlObaid A, Al-Badawi, IA, Al-Kadri H. et al. _"Human papillomavirus prevalence and type distribution among women attending routine gynecological examinations in Saudi Arabia."_ (2014). BMC Infect Dis 14, 643. 
 
-<!--Ortiz-Lana N, Garrote E, Arístegui J, et al. "*A prospective study to assess the burden of influenza-related hospitalizations and emergency department visits among children in Bilbao, Spain (2010-2011)*". (2017). An Pediatr (Barc). 87(6):311-319.-->
+<!--Ortiz-Lana N, Garrote E, Arístegui J, et al. _"A prospective study to assess the burden of influenza-related hospitalizations and emergency department visits among children in Bilbao, Spain (2010-2011)."_ (2017). An Pediatr (Barc). 87(6):311-319.-->
 
-<!--Khalil M, Azhar E, Kao M et al."*Gastroenteritis attributable to rotavirus in hospitalized Saudi Arabian children in the period 2007-2008.*" (2015) Clin Epidemiol. 7:129-37.-->
+<!--Khalil M, Azhar E, Kao M et al._"Gastroenteritis attributable to rotavirus in hospitalized Saudi Arabian children in the period 2007-2008."_ (2015) Clin Epidemiol. 7:129-37.-->
 
-Moses A, Bjerrum J, Hach M, et al. "*Concentrations of Intact Insulin Concurs With FDA and EMA Standards When Measured by HPLC in Different Parts of the Distribution Cold Chain.*" (2019). J Diabetes Sci Technol. 13(1):55-59.
+Moses A, Bjerrum J, Hach M, et al. _"Concentrations of Intact Insulin Concurs With FDA and EMA Standards When Measured by HPLC in Different Parts of the Distribution Cold Chain."_ (2019). J Diabetes Sci Technol. 13(1):55-59.
 
 
 # References
